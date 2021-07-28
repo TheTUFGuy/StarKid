@@ -12,8 +12,10 @@ Afraz
 
 **Build of Final Game** : https://drive.google.com/drive/folders/1VyxOFBoQ-cRB2KVRJ1syruHLioJbp5aD?usp=sharing
 
-_**Work Done By Me**: Programming and implemenatation of Features (Almost all programming except Health Bar and Menu UI scripts) , Overall Game Design and implementation, Managing Team_
+**Gameplay Videos** : https://drive.google.com/drive/folders/1uun5tJtJ5c_lbk9M30YSdTWT24zWNRaK?usp=sharing
 
-**Video of 1st Week Submission**: https://drive.google.com/file/d/1bzLICXzTFc2ztuLpDnJqoiR-f7Ph6DBc/view?usp=sharing
+_**Work Done By Me**: Programming and implemenatation of UI features like main menu, pause menu and end game. Programming Enemy movement and pathfinding. Overall design of game's look and feel and UI art design.
 
-**Github Link of 1st Week Submission** : https://github.com/server-crash/evaluation-1
+**Video of 1st Week Submission**: https://drive.google.com/file/d/1W-EGai4WaEWdi1xFyxiE0rJ_pEDMZtrA/view?usp=sharing
+
+**Drive Link of 1st Week Submission** : https://drive.google.com/drive/folders/1ypcLhC1sV6q62b3Q_hEyrO1nMwnqanKc?usp=sharing
